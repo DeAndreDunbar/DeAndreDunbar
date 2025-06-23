@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeAndreDunbar
-- 👀 I’m interested in Programming, data scientist, data analysis, and content creation,
+- 👀 I’m interested in Programming, data science, data analysis, and content creation,
 - 🌱 I’m currently learning R, Python, and SQL
 
 
